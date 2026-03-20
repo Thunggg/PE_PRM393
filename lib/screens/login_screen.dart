@@ -86,7 +86,7 @@ class _LoginScreenState extends State<LoginScreen> {
   Widget build(BuildContext context) {
     // build() dựng giao diện cho màn hình Login
     return Scaffold(
-      appBar: AppBar(title: Text('Login')),
+      appBar: AppBar(title: Text('Logins')),
       body: Padding(
         padding: EdgeInsets.all(16.0),
         child: Form(
